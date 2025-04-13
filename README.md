@@ -1,4 +1,4 @@
-Bookstore Management System
+Bookstore Management System 📚
 
 
 
@@ -155,7 +155,16 @@ Use provided roles to test different levels of access
 
 Modify or extend schema for reporting, inventory management, or analytics
 
+ERD
+
 
 ![bookstore drawio-4](https://github.com/user-attachments/assets/d08d25ab-c415-4af7-84cd-ebe85bd0e4d7)
+
+
+## Collaborators
+
+- [@bryan1028](https://github.com/bryan1028) 
+- [@zippyrehema123](https://github.com/zippyrehema123) 
+- [@fridasamkarimi](https://github.com/fridasamkarimi)
 
 
