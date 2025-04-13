@@ -137,7 +137,7 @@ GRANT SELECT, INSERT, UPDATE ON bookstore.order_line TO 'bookstore_sales'@'local
 ---
 
 ## 📊 ERD  
-*Visual representation of schema structure (add ERD image or diagram here)*  
+*Visual representation of schema structure*  
 
 
 ![bookstore drawio-4](https://github.com/user-attachments/assets/d08d25ab-c415-4af7-84cd-ebe85bd0e4d7)
