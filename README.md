@@ -14,6 +14,12 @@ A comprehensive **MySQL-based** bookstore database designed to manage **books**,
 
 ---
 
+## 🧰 Tech Stack
+
+- 🐬 **MySQL** – Relational database management system for structured data storage  
+- 🧠 **draw.io** – For creating the Entity Relationship Diagram (ERD) and visual schema design  
+
+---
 ## 🧩 Schema Overview
 
 **Key tables in the system:**
